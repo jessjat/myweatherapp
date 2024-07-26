@@ -80,12 +80,12 @@ strong{
     margin-top: 22px ;
 }
 .weather-app-temperature-value{
-    font-size:88px;
-    margin-left: 10px;
+    font-size:80px;
+    margin-right:10px;
     font-weight: bold;
 
 }
 .weather-app-unit{
-    margin-top: 21px;
+    margin-top: 16px;
     font-size: 28px;
 }
