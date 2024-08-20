@@ -15,7 +15,7 @@ windSpeedElement.innerHTML =`${response.data.wind.speed}km/h`;
 timeElement.innerHTML=formatDate(date);
 descriptionElement.innerHTML= response.data.condition.description;
 temperatureElement.innerHTML=Math.round(temperature);
-iconElement.innerHTML=`<img src="${response.data.condition.ico_url}" class="weather-app-icon"/>`;
+iconElement.innerHTML=`<img src="${response.data.condition.icon_url}" class="weather-app-icon"/>`;
  
 }
 function formatDate(date) {
