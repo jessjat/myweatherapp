@@ -79,9 +79,10 @@ span{
     margin-top: 22px ;
 }
 .weather-app-temperature-value{
-    font-size:88px;
-    margin-right:60px;
+    font-size:60px;
+    line-height:88px;
     font-weight: bold;
+    margin-right:88px;
 
 }
 .weather-app-unit{
