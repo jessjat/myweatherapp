@@ -69,23 +69,28 @@ footer{
     color: rgba(0, 0, 0, 0.5);
 
 }
-span{
+strong{
     color: red;
 }
 
 
 .weather-app-icon{
     font-size:44px ;
-    margin-top: 22px ;
+    margin-top: 2px ;
 }
 .weather-app-temperature-value{
     font-size:60px;
     line-height:88px;
     font-weight: bold;
-    margin-right:88px;
+    margin-right:9px;
+    margin-top: 2px;
 
 }
 .weather-app-unit{
-    margin-top: 6px;
+    margin-top: 18px;
     font-size: 28px;
+    margin-left:1px;
+    
 }
+
+
